@@ -31,3 +31,14 @@
 
 </body>
 </html>
+
+
+
+
+Push and commit changes
+
+git add .
+git commit -m "updated website"
+git push
+
+

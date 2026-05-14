@@ -48,10 +48,11 @@ nav a:hover {
     background-image:
         linear-gradient(rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)),
-        url('https://images.unsplash.com/photo-1504307651254-35680f356dfd');
+        url('https://images.unsplash.com/photo-1669582389450-67a661bccde0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 
     background-size: cover;
-    background-position: center;
+    background-size: 70%;
+    background-position: bottom;
 
     display: flex;
     align-items: center;
